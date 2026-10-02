@@ -2,13 +2,11 @@
   "name": "Peta Animasi Radar Safety",
   "organization": "HSE Dashboard Project",
   "description": "Peta kustom berbasis Leaflet.js dengan animasi radar berkedip untuk insiden baru.",
-  "logoUrl": "https://githubusercontent.com",
   "components": [
     {
       "id": "petaAnimasiHse",
       "name": "Peta Insiden Berkedip",
       "description": "Visualisasi peta interaktif dengan efek pulsing marker.",
-      "iconUrl": "https://githubusercontent.com",
       "resource": {
         "js": "index.js",
         "css": "index.css"
